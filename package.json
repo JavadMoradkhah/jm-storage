@@ -2,6 +2,14 @@
   "name": "jm-storage",
   "version": "1.0.0",
   "description": "A simple key-value pair local storage for Node.js",
+  "repository": "https://github.com/JavadMoradkhah/jm-storage",
+  "keywords": [
+    "localstorage",
+    "local-storage",
+    "json-storage",
+    "node.js",
+    "json"
+  ],
   "main": "storage.js",
   "scripts": {
     "test": "jest"
@@ -12,3 +20,4 @@
     "jest": "^28.1.3"
   }
 }
+

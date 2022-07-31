@@ -1,0 +1,11 @@
+{
+  "name": "jm-storage",
+  "version": "1.0.0",
+  "description": "A simple key-value pair local storage for Node.js",
+  "main": "storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javad Moradkhah",
+  "license": "ISC"
+}

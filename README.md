@@ -10,7 +10,7 @@ npm i jm-storage
 
 ## Usage
 
-```
+```javascript
 const Storage = require('jm-storage');
 
 const storage = new Storage('storage.json');
@@ -32,5 +32,4 @@ storage.removeItem(key);
 
 // Clears the whole storage
 storage.clear();
-
 ```

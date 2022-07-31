@@ -4,7 +4,7 @@
   "description": "A simple key-value pair local storage for Node.js",
   "main": "storage.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Javad Moradkhah",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "jm-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple key-value pair local storage for Node.js",
   "repository": "https://github.com/JavadMoradkhah/jm-storage",
   "keywords": [
